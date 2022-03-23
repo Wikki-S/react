@@ -22,9 +22,6 @@ function App() {
     <h1>Course</h1>
     <NewGoal onAddEvent = {addEventHandler}/>
      <GoalList goals={courseList}/>
-     
-
-
     {/* //   <button onClick={()=> setCounter((preButton) => preButton - 1)} >-</button>
     //     <div className='counter'>{counter}</div>
     //     <button onClick={() => setCounter((nextButton) => nextButton + 1)}>+</button>
