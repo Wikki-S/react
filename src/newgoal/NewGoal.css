@@ -1,0 +1,25 @@
+
+input[type=text]{
+    padding: 12px 20px;
+   align-items: center;
+   border: 1px solid #23e232;
+   justify-content: center;
+   margin: 0 5px;
+}
+button{
+    padding: 13px 25px;
+    background-color: #23e232;
+    color: #Fff;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}
+.new-goal{
+    text-align: center;
+}
+input:focus{
+    border: 1px solid #23e232;
+    outline: none;
+    border: 1px solid #23e232;
+    
+}

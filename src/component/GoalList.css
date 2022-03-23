@@ -1,0 +1,14 @@
+.goal h1{
+  text-align: center;
+  font-size: 32px;
+}
+.goal-list{
+    margin: 1.2rem;
+    list-style: none;
+    padding: 1rem 0;
+}
+.goal-list li{
+    padding: 1rem;
+    margin: 1rem 0;
+    border:1px solid #23e222;
+}
